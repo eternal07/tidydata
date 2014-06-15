@@ -100,16 +100,3 @@ Here are the description of each of the variables in the tidy_data.txt file.
 
 
 
-[43] "     fBodyAcc-mean()-X     " "     fBodyAcc-mean()-Y     "
-[45] "     fBodyAcc-mean()-Z     " "     fBodyAcc-std()-X      "
-[47] "     fBodyAcc-std()-Y      " "     fBodyAcc-std()-Z      "
-[49] "   fBodyAccJerk-mean()-X   " "   fBodyAccJerk-mean()-Y   "
-[51] "   fBodyAccJerk-mean()-Z   " "   fBodyAccJerk-std()-X    "
-[53] "   fBodyAccJerk-std()-Y    " "   fBodyAccJerk-std()-Z    "
-[55] "    fBodyGyro-mean()-X     " "    fBodyGyro-mean()-Y     "
-[57] "    fBodyGyro-mean()-Z     " "     fBodyGyro-std()-X     "
-[59] "     fBodyGyro-std()-Y     " "     fBodyGyro-std()-Z     "
-[61] "    fBodyAccMag-mean()     " "     fBodyAccMag-std()     "
-[63] "fBodyBodyAccJerkMag-mean() " " fBodyBodyAccJerkMag-std() "
-[65] "  fBodyBodyGyroMag-mean()  " "  fBodyBodyGyroMag-std()   "
-[67] "fBodyBodyGyroJerkMag-mean()" "fBodyBodyGyroJerkMag-std() "
